@@ -1,0 +1,33 @@
+{
+  "TabNet": {
+    "n_d": 32,
+    "n_a": 48,
+    "n_steps": 5,
+    "gamma": 1.7261672546065885,
+    "lambda_sparse": 4.009974946364291e-05,
+    "mask_type": "entmax"
+  },
+  "XGBoost": {
+    "n_estimators": 547,
+    "max_depth": 7,
+    "learning_rate": 0.041414290980308896,
+    "subsample": 0.7023321921744035,
+    "colsample_bytree": 0.7599013342502037,
+    "min_child_weight": 1
+  },
+  "RandomForest": {
+    "n_estimators": 432,
+    "max_depth": null,
+    "min_samples_split": 2,
+    "min_samples_leaf": 1
+  },
+  "LightGBM": {
+    "n_estimators": 555,
+    "learning_rate": 0.06923454409155787,
+    "num_leaves": 68,
+    "max_depth": 7,
+    "min_child_samples": 29,
+    "subsample": 0.6004058745843494,
+    "colsample_bytree": 0.7762284363697803
+  }
+}
