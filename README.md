@@ -22,4 +22,4 @@ matplotlib
 seaborn
 
 Data
-Raw student data cannot be shared publicly due to privacy constraints. Contact the corresponding author at tasya.yustira@nusaputra.ac.id for replication requests.
+Raw student data cannot be shared publicly due to privacy constraints.
